@@ -32,7 +32,7 @@ $(document).ready(function () { // code wrap, call to jQuery after HTML, CSS
       // loop over time blocks
       $(".time-block").each(function () {
           var blockHour = parseInt($(this).attr("id").split("hour-")[1]);
-          console.log(blockHour, currentHour)
+          console.log(currentHour)
 
           // apply the past, present, or future class 
           if (blockHour < currentHour) {

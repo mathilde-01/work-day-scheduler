@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-[Link to deployed application]()  
+[Link to deployed application](https://mathilde-01.github.io/work-day-scheduler/)  
 ![Portfolio screenshot](./Assets/work-day-scheduler_ss.png)  
 
 ## Description
